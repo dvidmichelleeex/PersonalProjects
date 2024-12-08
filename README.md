@@ -14,4 +14,12 @@ This is a collection of my practice data science projects to improve my data ana
 
 **Start Date**: 03/12/2024
 
+**End Date**:  08/12/2024
+
+## Project 3: Music Genre Classification using PCA
+
+**Tools Used**:  Python, Jupyter Notebook
+
+**Start Date**: 08/12/2024
+
 **End Date**:  Present
