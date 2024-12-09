@@ -55,7 +55,7 @@ Duration Insights:
 ```plaintext
 Career Track Analysis Project/
 │
-├── Dashboard and Interpretation.md        # Link to google docs containing dashboard and interpretation.
+├── Dashboard and Interpretation.md        # Link to interactive dashboard and interpretations/insights.
 ├── EERD of Career Track Analysis Project.pdf # Enhanced Entity-Relationship Diagram for the database schema.
 ├── career_track_completions.csv             # Processed dataset containing enrollment and completion details.
 ├── queries.sql                              # SQL queries used for data extraction and transformation.
