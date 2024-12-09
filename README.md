@@ -23,3 +23,11 @@ This is a collection of my personal data science projects to improve my data ana
 **Start Date**: 08/12/2024
 
 **End Date**:  09/12/2024
+
+## Project 3: Real Estate Market Analysis with Python
+
+**Tools Used**:  Python, Jupyter Notebook
+
+**Start Date**: 09/12/2024
+
+**End Date**:  Present
