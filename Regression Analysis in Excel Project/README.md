@@ -110,5 +110,4 @@ Regression Analysis in Excel Project/
 │
 ├── Link to Notes and Insights.md          # Link to Google Docs containing detailed notes and interpretations.
 ├── Regression Analysis Dataset.xlsx       # Dataset used for analysis.
-├── ~$Regression Analysis Dataset.xlsx     # Temporary file for data analysis in Excel.
 └── README.md                              # Project documentation (this file).
