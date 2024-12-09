@@ -108,6 +108,6 @@ The dataset contains:
 ```plaintext
 Regression Analysis in Excel Project/
 │
-├── Link to Notes and Insights.md          # Link to Google Docs containing detailed notes and interpretations.
+├── Link to Notes and Documentation.md          # Link to Google Docs containing detailed notes and interpretations.
 ├── Regression Analysis Dataset.xlsx       # Dataset used for analysis.
 └── README.md                              # Project documentation (this file).
