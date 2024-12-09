@@ -1,4 +1,4 @@
-This is a collection of my practice data science projects to improve my data analysis skills.
+This is a collection of my personal data science projects to improve my data analysis skills.
 
 ## Project 1: Career Tracking Analysis
 
@@ -22,4 +22,4 @@ This is a collection of my practice data science projects to improve my data ana
 
 **Start Date**: 08/12/2024
 
-**End Date**:  Present
+**End Date**:  09/12/2024
