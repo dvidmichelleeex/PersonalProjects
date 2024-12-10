@@ -1,4 +1,4 @@
-# **Career Track Analysis Project**
+# **Career Track Analysis with SQL**
 
 This repository contains the **Career Track Analysis Project**, a comprehensive analysis of career track enrollments, completions, and trends. The project uses SQL and Tableau for data exploration, visualization, and insights.
 
