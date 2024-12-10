@@ -1,4 +1,4 @@
-# **Regression Analysis in Excel Project**
+# **Regression Analysis in Excel using Power Query**
 
 This repository contains the **Regression Analysis in Excel Project**, a comprehensive analysis of the relationship between variables such as Discount, Product Price, and Total Amount Spent. The project applies correlation analysis, simple linear regression, multiple linear regression, and predictive modeling to analyze the dataset. The analysis and insights were generated using Excel.
 
