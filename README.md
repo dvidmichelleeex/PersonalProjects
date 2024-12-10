@@ -23,3 +23,11 @@ This is a collection of my personal data science projects to improve my data ana
 **Start Date**: 08/12/2024
 
 **End Date**:  09/12/2024
+
+## Project 4: Customer Engagement Analysis with SQL and Tableau
+
+**Tools Used**:  SQL, Tableau
+
+**Start Date**: 10/12/2024
+
+**End Date**:  Present
