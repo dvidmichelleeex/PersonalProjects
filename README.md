@@ -1,6 +1,6 @@
 This is a collection of my personal data science projects to improve my data analysis skills.
 
-## Project 1: Career Tracking Analysis
+## Project 1: Career Tracking Analysis with SQL
 
 **Tools Used**:  SQL and Tableau
 
@@ -8,7 +8,7 @@ This is a collection of my personal data science projects to improve my data ana
 
 **End Date**:  02/12/2024
 
-## Project 2: Regression Analysis with Excel
+## Project 2: Regression Analysis with Excel using Power Query
 
 **Tools Used**:  MS Excel
 
